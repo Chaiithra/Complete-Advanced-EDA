@@ -97,7 +97,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE)
 
 **1. Clone the Repo**
 ```bash
-git clone (https://github.com/Chaiithra/Complete-Advanced-EDA.git)
+git clone https://github.com/Chaiithra/Complete-Advanced-EDA.git
 ```
 
 **2. Navigate to Project Directory**
