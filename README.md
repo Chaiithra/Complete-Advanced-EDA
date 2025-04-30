@@ -43,6 +43,7 @@ This project involves cleaning and analyzing the Titanic dataset to uncover mean
 ---
 
 ## 📁 Folder Structure
+```bash
 titanic-data-cleaning-eda/
 │
 ├── titanic_data_cleaning_eda.ipynb   # 📓 Main notebook with code, visuals, and analysis
@@ -50,7 +51,7 @@ titanic-data-cleaning-eda/
 ├── README.md                         # 🧾 Project documentation (this file)
 ├── LICENSE                           # 📃 MIT License
 
-
+```
 ---
 
 ## 🎯 Key Insights
